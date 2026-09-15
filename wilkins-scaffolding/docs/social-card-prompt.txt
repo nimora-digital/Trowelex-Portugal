@@ -1,0 +1,13 @@
+Use case: ads-marketing
+Asset type: landscape social sharing card for Wilkins Scaffolding Services website, approximately 1200x630 pixels, aspect ratio 1.9:1.
+Primary request: A cohesive professional typography-only social card with an industrial contractor identity. Precise structured spacing, straight edges, bold condensed sans-serif typography, crisp flat graphic design. Strong visual hierarchy with ample safe margins so all text remains comfortably inside the image.
+Scene/backdrop: solid flat charcoal #20221f background.
+Color palette: charcoal #20221f, off-white #f4f4ed, provisional safety-yellow #dfed45. Flat colors only.
+Composition: Largest word dominates the upper-middle portion, with the second line clearly below it. Supporting sentence appears below the title with deliberate breathing room. Phone number anchors the lower portion. Minimal straight line or rectangular bar accents may frame the hierarchy.
+Text (verbatim), each appearing once with correct punctuation and spelling:
+Largest text: "WILKINS"
+Second line: "SCAFFOLDING SERVICES"
+Supporting text: "Reliable Scaffolding for Projects of Every Size"
+Phone text: "+44 7949 914442"
+Typography: Bold condensed sans-serif for the two uppercase title lines; highly legible sans-serif supporting copy. Render all text exactly as written.
+Constraints: Typography only. No invented official logo or emblem. No photos, scaffolding pictures, illustrations, credentials, badges, extra claims, website URL, AI branding, template branding, watermark, gradients, shadows, curves, 3D effects, textures, or additional words.
